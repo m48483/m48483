@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header&text=Hi%20There&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77699&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;It's+M48483+%F0%9F%92%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77699&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;It's+Buja+%F0%9F%92%9D)](https://git.io/typing-svg)
 <br>
 <details>
 <summary>
